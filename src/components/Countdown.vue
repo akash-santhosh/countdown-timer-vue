@@ -82,7 +82,7 @@ export default {
   name: "CountdownTimerComponent",
   data() {
     const now = new Date();
-    const deadline = new Date("January 22 2023 23:59:59");
+    const deadline = new Date("September 24 2023 23:59:59");
     return {
       diameter: 95,
       strokeWidth: 6,
